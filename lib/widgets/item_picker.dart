@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../util.dart';
+import '../utils.dart';
 
 class ItemPicker extends StatefulWidget {
   const ItemPicker({
