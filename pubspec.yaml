@@ -21,6 +21,7 @@ dependencies:
   collection: ^1.18.0
   flutter_colorpicker: ^1.0.3
   logging: ^1.2.0
+  animations: ^2.0.8
 
   cupertino_icons: ^1.0.2
 
