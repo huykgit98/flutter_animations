@@ -15,6 +15,12 @@ dependencies:
   just_audio: ^0.9.36
   url_launcher: ^6.2.1
   http: ^1.1.2
+  lottie: ^2.7.0
+  path_provider: ^2.1.1
+  path: 1.8.3
+  collection: ^1.18.0
+  flutter_colorpicker: ^1.0.3
+  logging: ^1.2.0
 
   cupertino_icons: ^1.0.2
 
@@ -23,6 +29,7 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^2.0.0
+  golden_toolkit: ^0.15.0
 
 
 flutter:
@@ -32,3 +39,36 @@ flutter:
   assets:
     - assets/
     - assets/fonts/
+    - assets/lottiefiles/
+    - assets/Mobilo/
+    - assets/Tests/
+    - assets/Tests/images/
+    - assets/Logo/
+    - assets/Images/
+    - assets/Images/WeAccept/
+    - assets/weather/
+    - assets/example_with_images/
+    - assets/example_with_images/images/
+
+  fonts:
+    - family: Comic Neue
+      fonts:
+        - asset: assets/fonts/Comic-Neue.ttf
+    - family: Helvetica
+      fonts:
+        - asset: assets/fonts/Helvetica.ttf
+    - family: Helvetica Neue
+      fonts:
+        - asset: assets/fonts/Helvetica-Neue.ttf
+    - family: Open Sans
+      fonts:
+        - asset: assets/fonts/Open-Sans.ttf
+    - family: PT Serif
+      fonts:
+        - asset: assets/fonts/PT-Serif.ttf
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto.ttf
+    - family: Noto Emoji
+      fonts:
+        - asset: assets/fonts/Noto-Emoji.ttf
